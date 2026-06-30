@@ -29,9 +29,10 @@ STATIC_URL = "static/"
 STATIC_ROOT = BASE_DIR / "staticfiles"
 
 ALLOWED_HOSTS = [
-     "127.0.0.1",
+    "127.0.0.1",
     "localhost",
     ".onrender.com",
+    "gandul.pythonanywhere.com",
 ]
 
 
